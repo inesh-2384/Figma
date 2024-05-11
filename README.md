@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date: 06-05-2024
+
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -99,7 +99,7 @@ Thankyou page:
 
 ## OUTPUT:
 
-![Screenshot 2024-04-30 152946](https://github.com/04Varsha/Figma/assets/149035374/7b962087-6cc5-4d7d-854a-e588e26d5a79)
+![CELENZA](https://github.com/inesh-2384/Figma/assets/146412203/28a543ab-cc47-4418-8a7c-5d97f62ac206)
 
 
 ## RESULT:
